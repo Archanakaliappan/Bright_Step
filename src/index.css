@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#root {
+  height: 100%;
+}
+.h-20 {
+  height: 10%;
+}
+.logodash{
+  width:80px;
+ 
+}
+.extra-big-text {
+  font-size: 5rem; /* or even larger if needed */
+  font-weight: 700; /* make it bold */
+  line-height: 1.2;
+}
